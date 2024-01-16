@@ -14,4 +14,5 @@ system('python setup.py install')
 
 ## Run the Experiment
 To run the experiment, execute the main.py file.
- <img src="https://github.com/YutongGGG/RSA-and-ElGamal-based-digital-signature-system/blob/main/picture2.jpg" alt="Digital Signature System_ElGamal" width="300"/>
+ <img src="https://github.com/YutongGGG/Line-and-Image-Interpolations/blob/main/demo.jpg" alt="demo" width="400"/>
+ 
