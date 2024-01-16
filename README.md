@@ -14,5 +14,6 @@ system('python setup.py install')
 
 ## Run the Experiment
 To run the experiment, execute the main.py file.
+
  <img src="https://github.com/YutongGGG/Line-and-Image-Interpolations/blob/main/demo.jpg" alt="demo" width="400"/>
  
