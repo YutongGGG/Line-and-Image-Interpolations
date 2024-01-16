@@ -7,7 +7,11 @@ Implemented interpolation methods:
 - 2D Interpolation: Nearest-Neighbor Interpolation, Piecewise Interpolation, Bilinear Interpolation, Bicubic Interpolation
 
 ## Set up MATLAB Engine API for Python
-'''bash
+```bash
 cd (fullfile(matlabroot,'extern','engines','python'))
 system('python setup.py install')
-'''
+```
+
+## Run the Experiment
+To run the experiment, execute the main.py file.
+ <img src="https://github.com/YutongGGG/RSA-and-ElGamal-based-digital-signature-system/blob/main/picture2.jpg" alt="Digital Signature System_ElGamal" width="300"/>
